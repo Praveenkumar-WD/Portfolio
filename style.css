@@ -285,5 +285,54 @@ nav .fa-solid{
     margin-left: 200px;
     display: block;
 }
+#Project{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
 
+.Project_h1{
+    color: #f12323;
+    margin-left: 40%;
+    padding: 30px;
+    font-size: large;
+}
+.Project_h3{
+    color: #f12323;
+    margin-left: 40%;
+    padding: 30px;
+    font-size: large;
+
+}
+.Project_para{
+    padding-left: 30px;
+    padding-top: 20px;
+    line-height: 20px;
+}
+.key_feature{
+    color: #f12323;
+    padding: 40px;
+}
+.list{
+    padding:10px ;
+    margin-right: 20px;   
+    list-style: circle;
+}
+.list_Whole{
+    padding-left: 40px;
+}
+.Project_Summary{
+    color: #f12323;
+    padding-bottom: 20px;
+}
+.T_U{
+    list-style: none;
+    
+}
+.list1{
+    padding:5px ;
+    margin-right: 20px;   
+    list-style: circle;
+}
 
